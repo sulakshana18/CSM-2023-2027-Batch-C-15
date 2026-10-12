@@ -6,14 +6,17 @@ Base Paper :
 MILP-Based Energy Management System in Industrial Environment with Electrical/Thermal Loads Considering Manufacturing Scheduling and Renewable Energy Integration 
 
 
-| Column              | Precise information                                                                                                                                               |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                                                                                                                                                |
-| Title               | MILP-Based Energy Management System in Industrial Environment with Electrical/Thermal Loads Considering Manufacturing Scheduling and Renewable Energy Integration |
-| Author              | Monteiro et al.                                                                                                                                                   |
-| Journal Name & Year | IEEE EEM Conference, 2026                                                                                                                                         |
-| Methodology Adopted | MILP optimization using Python, Pyomo, and SCIP solver.                                                                                                           |
-| Key Findings        | Achieved 18.5% energy cost savings through flexible production scheduling and energy optimization.                                                                |
-| Gaps                | Tested on one cork-processing factory over a single day; requires validation across industries and longer periods.                                                |
+| Field               | Details                                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| No.                 | 1                                                                                                     |
+| Title               | MILP-Based Energy Management System in Industrial Environment with Electrical/Thermal Loads           |
+| Author              | Monteiro et al.                                                                                       |
+| Journal Name & Year | IEEE EEM Conference, 2026                                                                             |
+| Methodology Adopted | MILP optimization using Python, Pyomo, and SCIP.                                                      |
+| Key Findings        | Achieved 18.5% energy cost savings through flexible production scheduling.                            |
+| Gaps                | Tested in one factory for one day; further validation across industries and longer periods is needed. |
+
+ble_energy_integration.pdf                                        |
 
 Supporting Paper 1:
 Energy-Efficient Shop Scheduling Using Space-Cooperation Multi-Objective Optimization 
