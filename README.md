@@ -16,7 +16,7 @@ MILP-Based Energy Management System in Industrial Environment with Electrical/Th
 | Key Findings        | Achieved 18.5% energy cost savings through flexible production scheduling.                            |
 | Gaps                | Tested in one factory for one day; further validation across industries and longer periods is needed. |
 
-ble_energy_integration.pdf                                        |
+                                       
 
 Supporting Paper 1:
 Energy-Efficient Shop Scheduling Using Space-Cooperation Multi-Objective Optimization 
